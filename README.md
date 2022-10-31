@@ -4,7 +4,7 @@
 <p>
 This project is a web app for organizing events. Built with PHP, MySQL, HTML, and CSS using Bootstrap Framework.
 <p>
-To fully run this program, you will need to run it in a local host.
+To fully run this program, we will need to run it in a local host.
 <ul>
 <li>Ran using Apache web server(XAMPP).</li>
 <li>Imported  'project.sql' in PHPMyAdmin</li>
